@@ -1,7 +1,7 @@
 # Partition-Weighted-Marginal-Density-Estimator
-
 This is the readme file for the scripts "mvt.R" and "evaluation.R", which are used to compute the marginal densities in Section 4.
-#########################################################################################################################################
+
+# mvt.R
 "mvt.R" contains four parts: (I) Required Packages; (II) Functions (III) Settings; and (IV) Computation & Results. We list them in details in the following. 
 
 (I) Required Packages:
@@ -23,8 +23,7 @@ This is the readme file for the scripts "mvt.R" and "evaluation.R", which are us
    5. 10 PWMDE estimates with K=20 are stored in "den_est_pwmde4".   
    6. Results of all estimates (10 repeats, each with 5 estimates) are saved as "output_DUMZ.txt".
    
- 
-#########################################################################################################################################
+# evaluation.R
 "evaluation.R" contains three parts: (I) Required Packages; (II) Settings; and (III) Computation & Results. We list them in details in the following. 
 
 (I) Required Packages:
